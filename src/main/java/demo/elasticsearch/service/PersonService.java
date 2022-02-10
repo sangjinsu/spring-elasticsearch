@@ -1,6 +1,6 @@
 package demo.elasticsearch.service;
 
-import demo.elasticsearch.domain.Person;
+import demo.elasticsearch.document.Person;
 import demo.elasticsearch.repository.PersonRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

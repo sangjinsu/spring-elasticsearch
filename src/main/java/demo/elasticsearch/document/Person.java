@@ -1,4 +1,4 @@
-package demo.elasticsearch.domain;
+package demo.elasticsearch.document;
 
 import demo.elasticsearch.helper.Indices;
 import lombok.Data;

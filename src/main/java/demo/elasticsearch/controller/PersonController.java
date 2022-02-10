@@ -1,6 +1,6 @@
 package demo.elasticsearch.controller;
 
-import demo.elasticsearch.domain.Person;
+import demo.elasticsearch.document.Person;
 import demo.elasticsearch.service.PersonService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
